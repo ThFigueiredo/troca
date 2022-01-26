@@ -16,7 +16,7 @@ import javax.persistence.*;
 @EqualsAndHashCode(of = "id")
 @AllArgsConstructor
 @NoArgsConstructor
-public class ProdutoModel extends BaseModel{
+public class Produto extends BaseModel{
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "ID_PRODUTO")
