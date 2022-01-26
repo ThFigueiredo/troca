@@ -1,4 +1,4 @@
-package com.figueiredo.troca.model;
+package com.figueiredo.troca.domain.model;
 
 
 import lombok.AllArgsConstructor;
